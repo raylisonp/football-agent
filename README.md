@@ -1,1 +1,2 @@
 # football-agent
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="110" fill="#101812"/><circle cx="256" cy="256" r="172" fill="none" stroke="#b6f36b" stroke-width="20"/><path d="M256 142l76 55-29 89h-94l-29-89zM180 197l-72 20m195-20 73 20m-73 69 42 68m-136-68-42 68m89-100 0 94" fill="none" stroke="#b6f36b" stroke-width="18" stroke-linejoin="round" stroke-linecap="round"/><text x="256" y="435" text-anchor="middle" font-family="Arial" font-size="38" font-weight="bold" fill="#f4f7f2">AGENT</text></svg>
